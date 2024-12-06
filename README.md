@@ -18,4 +18,4 @@ const GOOGLE_API_KEY = "YOUR_API_KEY";
 
 click here
 Here we have project screenshot :
-https://sipiira.github.io/SIPIIRA-AI/
+https://sipiira.github.io/SIPIIRA-AI/index.html
